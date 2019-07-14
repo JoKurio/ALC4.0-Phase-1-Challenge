@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ALC4.0</string>
+    <string name="about_alc">About ALC</string>
+<string name="profile">Profile</string>
+<string name="home_page">ALC 4.0 PHASE 1 CHALLENGE</string>
+<string name="alc">WELCOME TO ALC 4.0</string>
+<string name="scholar_profile">Scholar\'s Profile</string>
+<string name="my">Owah Jonathan</string>
+<string name="my_name">Owah Jonathan</string>
+<string name="my_track">Android</string>
+<string name="my_country">Nigeria</string>
+<string name="my_email">owahjonathan@gmail.com</string>
+<string name="my_phone_number">+2348032362176</string>
+<string name="my_profile_pic">My Profile Pic</string>
+<string name="alc_scholars">alc scholars</string></resources>
